@@ -1,0 +1,27 @@
+h1, h4, main p, p{
+    color: white;
+    text-align: center;
+}
+footer p{ 
+    color: black;
+    font: 16px;
+
+}
+*{
+    background-color: rgb(208, 136, 148);
+}
+img{
+    display: block;
+    margin:auto;
+    width:12%;
+}
+ul{
+    text-align: center;
+}
+.atone{
+    margin: 0 auto;
+    width: 15%;
+    font-size: 1.5em
+    
+
+}
