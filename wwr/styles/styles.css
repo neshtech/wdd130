@@ -6,7 +6,7 @@
 }
 nav a{
     text-align: center;
-    color:black;
+    color: white;
     text-decoration: none;
     padding:35px ;
 }
@@ -62,6 +62,7 @@ nav a:hover{
 .msg h2{
     color:white;
     font-family: "Kaushan Script", Lucida Handwriting, cursive;
+    margin: 0;
     
 }
 .msg p{
@@ -120,9 +121,6 @@ footer p a:hover{
 }
 main section image{
     box-sizing: border-box;
-}
-h2{
-    margin: 0;
 }
 #logo_link{
     padding-top: 5px;
