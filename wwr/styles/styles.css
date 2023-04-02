@@ -44,7 +44,7 @@ nav a{
 main section{
     text-align: center;
 }
-#background {
+#background{
     height: 725px;
     background-color: #c9fbff;
     grid-column: 1/11;
@@ -106,7 +106,7 @@ nav a:hover{
 }
 .home-grid{
     display: grid;
-    grid-template-columns: repeat(10fr);
+    grid-template-columns: repeat(10,1fr);
 }
 footer{
     background-color: white;
@@ -154,7 +154,7 @@ footer p{
 footer p a:hover{
     text-decoration: underline;
 }
-.rivers-card {
+.rivers-card{
     margin: 200px 0;
     grid-column: 2/4;
     grid-row: 2/3;
